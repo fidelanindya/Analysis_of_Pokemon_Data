@@ -19,6 +19,6 @@ Libraries :
 4. Classification pokemon with each generation.
 
 ## Usage
-First thing first you have to download the Pokemon dataset and code Analysis of Pokemon Data here. Then, if you have your own GPU you can download the Google Colab Notebook and run the script inside the notebook locally or you can upload this repo to your Google Drive then run it using the Google Colab's GPU.
+First thing first you have to download the Pokemon dataset and code Analysis of Pokemon Data from this repo. Then, if you have your own GPU you can download the Google Colab Notebook and run the script inside the notebook locally or you can upload this repo to your Google Drive then run it using the Google Colab's GPU.
 
 if you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : fidelanindya05@gmail.com and www.linkedin.com/in/fidelanindya
